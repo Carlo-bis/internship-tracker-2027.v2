@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 class JobScraper:
-    def __init__(self, config_path='../sites_config.json'):
+    def __init__(self, config_path='sites_config.json'):
         with open(config_path, 'r') as f:
             self.sites_config = json.load(f)
         self.headers = {
