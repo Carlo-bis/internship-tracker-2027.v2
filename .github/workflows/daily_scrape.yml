@@ -31,3 +31,4 @@ jobs:
         git add data/job_offers.json || true
         git commit -m "🔄 Daily scraping update - $(date)" || echo "No changes to commit"
         git push || true
+ 
