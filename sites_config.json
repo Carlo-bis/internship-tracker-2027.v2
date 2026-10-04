@@ -1,0 +1,132 @@
+{
+  "banche_svizzere": [
+    {
+      "name": "UBS",
+      "url": "https://www.ubs.com/ch/en/careers.html",
+      "internship_path": "/internships",
+      "country": "Switzerland"
+    },
+    {
+      "name": "Raiffeisen",
+      "url": "https://www.raiffeisen.ch/",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    },
+    {
+      "name": "BNY Mellon",
+      "url": "https://www.bnymellon.com/careers",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    },
+    {
+      "name": "Banca Vontobel",
+      "url": "https://www.vontobel.com/careers",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    },
+    {
+      "name": "EFG Bank",
+      "url": "https://www.efginternational.com/careers",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    },
+    {
+      "name": "Cornèr Banca",
+      "url": "https://www.corner.ch/",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    }
+  ],
+  "banche_italiane": [
+    {
+      "name": "Intesa Sanpaolo",
+      "url": "https://jobs.intesasanpaolo.com/",
+      "internship_path": "/search",
+      "country": "Italy"
+    },
+    {
+      "name": "UniCredit",
+      "url": "https://jobs.unicredit.eu/",
+      "internship_path": "/search",
+      "country": "Italy"
+    },
+    {
+      "name": "Mediobanca",
+      "url": "https://www.mediobanca.com/careers",
+      "internship_path": "/careers",
+      "country": "Italy"
+    },
+    {
+      "name": "Generali",
+      "url": "https://careers.generali.com/",
+      "internship_path": "/careers",
+      "country": "Italy"
+    }
+  ],
+  "vc_pe": [
+    {
+      "name": "InnoSource Ventures",
+      "url": "https://www.innosource.ch/",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    },
+    {
+      "name": "LGT Capital Partners",
+      "url": "https://www.lgtcp.com/",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    },
+    {
+      "name": "Privilege Student Ventures",
+      "url": "https://www.privilege-ventures.ch/",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    }
+  ],
+  "family_office": [
+    {
+      "name": "Brightside Capital",
+      "url": "https://www.brightsidecapital.ch/",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    },
+    {
+      "name": "LFG Family Office",
+      "url": "https://www.lfgfo.ch/",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    },
+    {
+      "name": "Custodia Wealth Management",
+      "url": "https://www.custodia.ch/",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    },
+    {
+      "name": "Fortitude Wealth Management",
+      "url": "https://fortitude-wealth.ch/",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    }
+  ],
+  "fintech": [
+    {
+      "name": "Revolut",
+      "url": "https://www.revolut.com/careers",
+      "internship_path": "/careers",
+      "country": "Multi"
+    },
+    {
+      "name": "DXT Commodities",
+      "url": "https://www.dxt.ch/",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    },
+    {
+      "name": "Thire",
+      "url": "https://thire.ch/",
+      "internship_path": "/careers",
+      "country": "Switzerland"
+    }
+  ]
+}

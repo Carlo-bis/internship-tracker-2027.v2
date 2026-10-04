@@ -1,0 +1,28 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.Python
+venv/
+env/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# Personalized docs
+data/personalized/
+
+# Build
+frontend/dist/
